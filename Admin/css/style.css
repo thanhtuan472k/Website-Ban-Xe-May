@@ -1,0 +1,8 @@
+.card li a{
+    color:white !important;
+    text-decoration: none;
+}
+.card li a:hover{
+    color:rgb(4, 4, 29) !important;
+    text-decoration: none;
+}
